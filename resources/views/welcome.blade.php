@@ -8,7 +8,7 @@
 
         @include('partials.banner')
 
-        @include('partials.last')
+        @include('partials.movies')
 
     </section>
 
